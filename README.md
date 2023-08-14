@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Exploratory Analysis of Sales Data from an Online Store
 
 This notebook aims to perform an exploratory analysis of data from an online store, using the pandas, numpy, seaborn and matplotlib libraries.
