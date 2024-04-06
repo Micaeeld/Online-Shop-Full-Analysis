@@ -1,30 +1,15 @@
-##### Use https://nbviewer.org to upload the file in case of errors
----
+# Análise Exploratória de Dados de Vendas de uma Loja Online
 
-# Exploratory Analysis of Sales Data from an Online Store
+Este notebook apresenta uma análise exploratória dos dados de vendas de uma loja online. Os registros de vendas abrangem um período de tempo determinado e fornecem informações valiosas sobre o desempenho e as tendências de vendas dessa loja virtual.
 
-This notebook aims to perform an exploratory analysis of data from an online store, using the pandas, numpy, seaborn and matplotlib libraries.
-The data used in this notebook consists of a set of sales from an online store over a period of one year.
+## Objetivo
+
+O objetivo desta análise é compreender melhor o comportamento das vendas da loja online, identificar padrões e tendências, e extrair insights que possam ser úteis para o aprimoramento das estratégias de negócio e tomadas de decisão.
 
 ## Dataset
 
-The dataset used in this analysis was taken from Kaggle, an online data science platform that offers public and private datasets, as well as tools for data analysis and modeling. The specific dataset used in this project can be found at https://www.kaggle.com/datasets/onlineretailshop/online-shop-customer-sales-data.
+O conjunto de dados utilizado nesta análise foi obtido do Kaggle, uma plataforma online de ciência de dados que oferece conjuntos de dados públicos e privados, além de ferramentas para análise e modelagem de dados. O conjunto de dados específico utilizado neste projeto pode ser encontrado em https://www.kaggle.com/datasets/onlineretailshop/online-shop-customer-sales-data.
 
-## Prerequisites
+## Contribuições
 
-To run this notebook you will need:
-
-- Python 3.x
-- Python packages: pandas, numpy, matplotlib, seaborn and warnings
-
-## How to use
-
-1. Clone this repository on your computer.
-2. Open the `Online Shop Customer.ipynb` notebook in a Python development environment such as Jupyter Notebook or Google Collaboratory.
-3. Run the notebook cells in order, following the analysis and generated graphs.
-
-
-## Contributing
-
-Contributions are welcome! If you find any bugs or have any suggestions for improvement, please open an issue in the repository or submit a pull request.
-a pull request.
+Contribuições são bem-vindas! Se encontrar algum erro ou tiver sugestões para melhorias, por favor, abra um problema no repositório ou envie um pull request.
